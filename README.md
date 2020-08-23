@@ -1,9 +1,1 @@
-## Studies and Times
-
-Time Table app
-
-### For Students
-
-
-
-
+# Studies and Times TimeTable App
